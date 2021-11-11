@@ -11,6 +11,7 @@
 
 ## 🔗 Links
 
+- [粘液科技材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
 - [粘液科技中文Wiki](https://slimefun.guizhanss.wiki/)
 - [粘液匠魂(SlimeTinker)](https://github.com/ybw0014/SlimeTinker-CN)
 
