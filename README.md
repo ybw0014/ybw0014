@@ -3,16 +3,13 @@
 
 - ybw0014, 鬼斩
 - Human languages (语言): Chinese, English, Spanish (a little)
-- Programming languages (编程语言): PHP, Java, Python, Go
-- Blog (个人博客): [gzss.blog](https://gzss.blog)
+- Programming languages (编程语言): Java, PHP, Python
+- Blog (个人博客): [ybw0014.net](https://ybw0014.net)
 - Games (主玩游戏): League of Legends, Minecraft
 
 ![](https://github-readme-stats.vercel.app/api?username=ybw0014&show_icons=true&hide_title=false)
 
 ## 🔗 Links
 
-- [粘液科技材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
-- [粘液科技中文Wiki](https://slimefun.guizhanss.wiki/)
-- [粘液匠魂(SlimeTinker)](https://github.com/ybw0014/SlimeTinker-CN)
-
-所有我维护的Minecraft插件可以在[这里](https://github.com/GuizhanCraft)找到。
+- [粘液科技材质包 / Slimefun resource pack](https://ybw0014.net/post/guizhancraft-resource-pack)
+- [粘液科技中文Wiki / unofficial Chinese Slimefun4 Wiki](https://slimefun-wiki.guizhanss.cn/)
