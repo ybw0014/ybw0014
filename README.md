@@ -13,3 +13,4 @@
 
 - [粘液科技材质包 / Slimefun resource pack](https://ybw0014.net/post/guizhancraft-resource-pack)
 - [粘液科技中文Wiki / unofficial Chinese Slimefun4 Wiki](https://slimefun-wiki.guizhanss.cn/)
+- [粘液科技简中汉化组 / Slimefun Simplified Chinese translation group](https://github.com/SlimefunGuguProject)
