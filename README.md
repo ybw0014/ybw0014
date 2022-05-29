@@ -9,6 +9,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ybw0014&show_icons=true&hide_title=false)
 
+## Sponsor me
+
+[爱发电](https://afdian.net/@ybw0014)
+
 ## 🔗 Links
 
 - [粘液科技材质包 / Slimefun resource pack](https://ybw0014.net/post/guizhancraft-resource-pack)
