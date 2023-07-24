@@ -11,7 +11,7 @@
 
 ## Sponsor me
 
-[爱发电](https://afdian.net/@ybw0014)
+[爱发电](https://afdian.net/@ybw0014) | [Patreon](https://patreon.com/ybw0014)
 
 ## 🔗 Links
 
